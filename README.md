@@ -1,2 +1,2 @@
 # ngo-website
-SE mini porject
+SE mini project
